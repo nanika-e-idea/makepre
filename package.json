@@ -2,7 +2,7 @@
   "name": "makepre",
   "version": "1.0.0",
   "description": "My exceptional Nuxt.js project",
-  "author": "\&#34;Momiji\&#34; Michitsugu Sakamoto",
+  "author": "Momiji Michitsugu Sakamoto",
   "private": true,
   "scripts": {
     "dev": "nuxt",
